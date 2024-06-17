@@ -10,6 +10,8 @@ This repository my work for the [Exercism](https://exercism.org/) C# track.
 ### Submission Command
 `exercism submit "Exercism\csharp\log-levels\LogLevels.cs"`
 
+![Banner](Data/Images/CSharp-Exercism-S03-Strings-Title.png)
+
 # Log Levels
 
 Welcome to Log Levels on Exercism's C# Track.
